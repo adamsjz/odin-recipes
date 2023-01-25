@@ -43,3 +43,18 @@ img {
     width: auto;
     text-align: center;
 }
+
+body {
+    color:#6b97f6;
+    background-color: #fefa7e;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body ul {
+    text-align: left;
+}
+
+body li {
+    text-align: left
+}
